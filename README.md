@@ -2,7 +2,7 @@
 
 ## 📍 IIT Guwahati C&A Summer Project | 2025
 
-**Contributor**: Sunny Kumar
+**Contributor**: Kripanshu Narayan
 **Domain**: Hospitality Sector Analytics  
 **Mentor**: IIT Guwahati, Consulting and Analytics Club
 
@@ -78,17 +78,14 @@ This project aimed to identify and optimize areas of revenue leakage in the hosp
 
 ---
 
-## 📸 Preview
-
-[[Dashboard](https://github.com/user-attachments/assets/bf60a9c5-4d1f-4f9c-a191-a7f91079dc89)
 
 ---
 
 ## 📬 Contact
 
-- 🔗 GitHub: [Jakhar05](https://github.com/Jakhar05)
-- 📧 Email: btech10329.23@bitmesra.ac.in
-- 🌐 LinkedIn: [Sunny Kumar](www.linkedin.com/in/sunny-kumar-33521b348)
+- 🔗 GitHub: [Kripanshu877](https://github.com/kripanshu877)
+- 📧 Email: btech10375.23@bitmesra.ac.in
+- 🌐 LinkedIn: [Kripanshu Narayan](www.linkedin.com/in/kripanshu-narayan-267b80324/)
 
 ---
 
