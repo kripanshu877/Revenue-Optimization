@@ -85,7 +85,7 @@ This project aimed to identify and optimize areas of revenue leakage in the hosp
 
 - 🔗 GitHub: [Kripanshu877](https://github.com/kripanshu877)
 - 📧 Email: btech10375.23@bitmesra.ac.in
-- 🌐 LinkedIn: [Kripanshu Narayan](www.linkedin.com/in/kripanshu-narayan-267b80324/)
+- 🌐 LinkedIn: [Kripanshu Narayan](https://www.linkedin.com/in/kripanshu-narayan-267b80324/)
 
 ---
 
